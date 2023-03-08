@@ -1,4 +1,2 @@
-"use strict"
-const ItBtrain = "It Brains course";
-
-UAUAUAUA
+let dev = "My first branch from terminal";
+alert(`This is ${dev}`);
